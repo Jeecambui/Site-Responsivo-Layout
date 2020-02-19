@@ -1,0 +1,8 @@
+header = cabeçalho.
+sention = seções do conteudo.
+footer = rodapé
+article = define artigo.
+main = conteudo principal.
+nav = links de navegação.
+aside = conteudo que não está relacionado com o conteudo
+address = endereço do conteudo, como email ou site
